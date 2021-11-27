@@ -1,0 +1,8 @@
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\bin\Debug\Praca_okienka.exe
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\bin\Debug\Praca_okienka.pdb
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Debug\Praca_okienka.csproj.GenerateResource.Cache
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Debug\Praca_okienka.exe
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Debug\Praca_okienka.pdb
+C:\Users\Administrator.Lapek\Documents\Visual Studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Debug\Praca_okienka.csprojResolveAssemblyReference.cache

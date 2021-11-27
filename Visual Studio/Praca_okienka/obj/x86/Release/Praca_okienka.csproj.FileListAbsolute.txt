@@ -1,0 +1,12 @@
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\Praca_okienka.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\Praca_okienka.csproj.GenerateResource.Cache
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\bin\Release\Praca_okienka.exe
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\bin\Release\Praca_okienka.pdb
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\Praca_okienka.exe
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\Praca_okienka.pdb
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\bin\Release\Praca_okienka.exe.manifest
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\bin\Release\Praca_okienka.application
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\Praca_okienka.exe.manifest
+C:\Users\Administrator.Lapek\documents\visual studio 2010\Projects\Praca_okienka\Praca_okienka\obj\x86\Release\Praca_okienka.application
